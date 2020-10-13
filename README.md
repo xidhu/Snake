@@ -28,8 +28,12 @@ Version 3.0
 ============
 - HighScore option added.
 
+Build
+---
  Simple Build using GCC or MigWC.
-
+ 
+Screen
+___
 
 
 
