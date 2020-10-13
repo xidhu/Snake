@@ -17,4 +17,4 @@ Version 3.0
 ============
 -HighScore option added.
 
- Simple Build using GCC or Turbo C.
+ Simple Build using GCC or MigWC.
