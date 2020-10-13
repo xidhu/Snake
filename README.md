@@ -15,18 +15,18 @@
 
 Version 1.0
 ============
--Simple Interface<br>
--Canvas is non resizable<br>
--Speed is Changable
+- Simple Interface<br>
+- Canvas is non resizable<br>
+- Speed is Changable
 
 Version 2.0
 ============
--Canvas is Resizable.<br>
--Speed indicator added.
+- Canvas is Resizable.<br>
+- Speed indicator added.
 
 Version 3.0
 ============
--HighScore option added.
+- HighScore option added.
 
  Simple Build using GCC or MigWC.
 
