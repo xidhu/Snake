@@ -15,13 +15,13 @@
 
 Version 1.0
 ============
--Simple Interface
--Canvas is non resizable
+-Simple Interface<br>
+-Canvas is non resizable<br>
 -Speed is Changable
 
 Version 2.0
 ============
--Canvas is Resizable.
+-Canvas is Resizable.<br>
 -Speed indicator added.
 
 Version 3.0
