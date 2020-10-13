@@ -54,8 +54,6 @@ strcpy(can[9],"+  Press any Key to Start");
 strcpy(can[11],"+  Press o for Options");
 strcpy(can[13],"+  Press x for Exit");
 strcpy(can[17],"+  $$$$Created By Xidhu$$$$");
-strcpy(can[19],"+  Copyrighted By 2019 Nixin");
-strcpy(can[30],"+  Copyrighted By 2019 Nixin");
 disp();
 o=getch();
 if(o=='o'){goto op;}
