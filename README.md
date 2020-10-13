@@ -1,4 +1,5 @@
 
+
 ## Snake Game
 *Simple Command Line Snake Game*
 
@@ -32,8 +33,8 @@ Build
 ---
  Simple Build using GCC or MigWC.
  
-Screen
-___
+## Demo
+![enter image description here](https://github.com/xidhu/Snake/blob/master/demo.gif?raw=true)
 
 
 
