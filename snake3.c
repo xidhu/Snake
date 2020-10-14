@@ -63,6 +63,7 @@ void main()
 		fclose(ptr);
 	}
 clr();
+
 strcpy(CAN[5],"+  Welcome To Snake Game");
 strcpy(CAN[6],"+  +++++++++v2.0++++++++");
 strcpy(CAN[9],"+  Press any Key to Start");
@@ -70,6 +71,8 @@ strcpy(CAN[11],"+  Press o for Options");
 strcpy(CAN[13],"+  Press x for Exit");
 strcpy(CAN[17],"+  $$$$Created By Xidhu$$$$");
 strcpy(CAN[19],"+  Copyrighted By 2019 Nixin");
+
+
 disp();
 o=getch();
 if(o=='o'){goto op;}

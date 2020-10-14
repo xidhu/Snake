@@ -1,20 +1,57 @@
-# Snake
-The Simple Snake Game
-=====================
-This is a Simple Snake game using C.Graphic Libreries are not Used.
+
+
+## Snake Game
+*Simple Command Line Snake Game*
+
+
+> Game
+
+<sub>(Prefered Compiler is TDM_GCC.)</sub>
+
+
+
+- Simple  build
+- No Graphical libraries Included
+
+
 Version 1.0
 ============
--Simple Interface
--Canvas is non resizable
--Speed is Changable
+- Simple Interface<br>
+- Canvas is non resizable<br>
+- Speed is Changable
 
 Version 2.0
 ============
--Canvas is Resizable.
--Speed indicator added.
+- Canvas is Resizable.<br>
+- Speed indicator added.
 
 Version 3.0
 ============
--HighScore option added.
+- HighScore option added.
 
- Simple Build using GCC or Turbo C.
+Build
+---
+ Simple Build using GCC or MigWC.
+ 
+## Demo
+![enter image description here](https://github.com/xidhu/Snake/blob/master/demo.gif?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+# Support
+
+See  the [issue page][1]  for any kind of support.
+
+# License
+
+No Licence Included
+
+[1]:https://github.com/xidhu/Snake/issues
