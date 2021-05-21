@@ -33,7 +33,7 @@ Version 3.0
 
 
  
-## Demo
+
 ![enter image description here](https://github.com/xidhu/Snake/blob/master/demo.gif?raw=true)
 
 
